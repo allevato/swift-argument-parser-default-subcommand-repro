@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser.git",
+        "state": {
+          "branch": "master",
+          "revision": "2d8a9bd1badfcf33fa96534d8db93c09d7884c72",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
